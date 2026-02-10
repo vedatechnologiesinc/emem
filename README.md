@@ -1,8 +1,6 @@
 emem
 ====
 
-[![Build Status](https://travis-ci.org/ebzzry/emem.svg)](https://travis-ci.org/ebzzry/emem)
-
 _emem_ is a trivial Markdown to HTML converter. This library leverages
 on [markdown-clj](https://github.com/yogthos/markdown-clj), and
 [hiccup](https://github.com/weavejester/hiccup) to produce HTML.
@@ -103,7 +101,7 @@ specify `1.1.0`.
 #### Releases
 
 If you are unable to build a JAR or EXE, you may download a
-[binary release](https://github.com/ebzzry/emem/releases).
+[binary release](https://github.com/vedatechnologiesinc/emem/releases).
 
 
 Usage
@@ -187,9 +185,9 @@ To learn more about the available options:
 
     $ emem -h
 
-An example of how emem is used to generate pages can be found [here](https://github.com/ebzzry/ebzzry.github.io/blob/master/Makefile).
+An example of how emem is used to generate pages can be found [here](https://github.com/ebzzry/ebzzry.github.io/blob/main/makefile).
 
-A short tutorial for common use cases is available [here](http://ebzzry.io/en/emem).
+A short tutorial for common use cases is available [here](http://ebzzry.com/en/emem).
 
 
 ### API
@@ -259,6 +257,6 @@ Dependencies
 License
 -------
 
-Copyright 2015–2025 Rommel Martinez
+Copyright 2015–2026 Rommel Martínez
 
 Distributed under the Eclipse Public License
